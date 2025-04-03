@@ -16,6 +16,9 @@ body{
     
     
 }
+.nav-link{
+    margin: 0px 10px;
+}
 a{
     text-decoration: none !important;
     color: white !important;   
